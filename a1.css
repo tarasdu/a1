@@ -1,0 +1,34 @@
+
+h2 {
+    color: black;
+    text-align: center;
+}
+#container {
+    width: 755px;
+    height: 320px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image {
+    width: 213px;
+    height: 320px;
+    display: inline-block;
+    float: left;
+}
+#text {
+    width: 537px;
+    height: 320px;
+    margin-left: 5px;
+    overflow: auto;
+    display: inline-block;
+    float: right:
+}
+#quote {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 5px;
+    border: 2px solid grey;
+    color: darkgray;
+}
